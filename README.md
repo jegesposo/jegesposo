@@ -1,4 +1,6 @@
-### Hi there 👋
+## About me
+I'm currently working on some personal ML projects to improve my skills in end-to-end ML development. Right now, I am focusing on ML Operations skills. 
+
 
 <!--
 **jegesposo/jegesposo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
